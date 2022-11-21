@@ -7,7 +7,15 @@ import java.util.StringTokenizer;
 
 
 public class Main_BOJ_14891_톱니바퀴_144ms {
+    static class Pair {
+        int no;
+        int dir;
 
+        public Pair(int no, int dir) {
+            this.no = no;
+            this.dir = dir;
+        }
+    }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -94,12 +102,4 @@ public class Main_BOJ_14891_톱니바퀴_144ms {
     } // end of main
 } // end of class
 
-class Pair {
-    int no;
-    int dir;
 
-    public Pair(int no, int dir) {
-        this.no = no;
-        this.dir = dir;
-    }
-}

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 
-public class Main_12100_2048(Easy)_G2_배인수_180ms {
+public class Main_12100_2048_Easy_G2_배인수_180ms {
 
     private static int N;
     static int max = Integer.MIN_VALUE;

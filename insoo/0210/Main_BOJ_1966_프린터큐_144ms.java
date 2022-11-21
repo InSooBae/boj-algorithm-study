@@ -6,7 +6,15 @@ import java.util.*;
 
 public class Main_BOJ_1966_프린터큐_144ms {
 
+    static class Pair {
+        int idx;
+        int priority;
 
+        public Pair(int idx, int priority) {
+            this.idx = idx;
+            this.priority = priority;
+        }
+    }
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
@@ -49,12 +57,4 @@ public class Main_BOJ_1966_프린터큐_144ms {
     } // end of main
 } // end of class
 
-class Pair {
-    int idx;
-    int priority;
 
-    public Pair(int idx, int priority) {
-        this.idx = idx;
-        this.priority = priority;
-    }
-}

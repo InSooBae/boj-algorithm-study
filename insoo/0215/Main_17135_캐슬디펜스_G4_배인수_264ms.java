@@ -5,7 +5,15 @@ import java.util.*;
 
 
 public class Main_17135_캐슬디펜스_G4_배인수_264ms {
+    static class Pair {
+        int x;
+        int y;
 
+        public Pair(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
+    }
     static int N, M, D, max;
     static int[][] mat;
     // 3방 탐색 왼쪽부터
@@ -146,12 +154,4 @@ public class Main_17135_캐슬디펜스_G4_배인수_264ms {
 
 } // end of class
 
-class Pair {
-    int x;
-    int y;
 
-    public Pair(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-}

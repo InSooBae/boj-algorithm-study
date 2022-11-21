@@ -6,6 +6,15 @@ import java.util.*;
 
 public class Main_2146_다리만들기_G3_180ms {
 
+    static class Pair {
+        int x;
+        int y;
+
+        public Pair(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
+    }
 
     static int N, res = Integer.MAX_VALUE;
     static int[] dx = {1, 0, -1, 0};
@@ -110,12 +119,3 @@ public class Main_2146_다리만들기_G3_180ms {
 
 }
 
-class Pair {
-    int x;
-    int y;
-
-    public Pair(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-}

@@ -5,7 +5,15 @@ import java.util.*;
 
 
 public class Main_BOJ_17298_오큰수_1096ms {
-    
+    static class Pair {
+        int val;
+        int idx;
+
+        public Pair(int val, int idx) {
+            this.val = val;
+            this.idx = idx;
+        }
+    }
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
@@ -49,12 +57,4 @@ public class Main_BOJ_17298_오큰수_1096ms {
     } // end of main
 } // end of class
 
-class Pair {
-    int val;
-    int idx;
 
-    public Pair(int val, int idx) {
-        this.val = val;
-        this.idx = idx;
-    }
-}
