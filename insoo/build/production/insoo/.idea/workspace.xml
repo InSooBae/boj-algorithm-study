@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b0f1a7f-9455-491f-8ee2-bb2ebcbe3765" name="Changes" comment="##########제목##########&#10;&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
+      <change afterPath="$PROJECT_DIR$/_1129/Main_5427_불_G4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrHXu8Tj0epQcn1Sa0ZpTxev12" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/external/boj-algorithm-study/insoo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main_5427_불_G4">
+    <configuration name="Main_4179_불_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1124.Main_4179_불_G4" />
+      <module name="insoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1124.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_5427_불_G4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1129.Main_5427_불_G4" />
+      <module name="insoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1129.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_6198_옥상정원꾸미기_G5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1122.Main_6198_옥상정원꾸미기_G5" />
+      <module name="insoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1122.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_5427_불_G4" />
+        <item itemvalue="Application.Main_4179_불_G4" />
+        <item itemvalue="Application.Main_6198_옥상정원꾸미기_G5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b0f1a7f-9455-491f-8ee2-bb2ebcbe3765" name="Changes" comment="" />
+      <created>1669036325051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669036325051</updated>
+      <workItem from="1669036326787" duration="4370000" />
+      <workItem from="1669134880979" duration="4353000" />
+      <workItem from="1669292681225" duration="132000" />
+      <workItem from="1669297956022" duration="8560000" />
+      <workItem from="1669423185669" duration="360000" />
+      <workItem from="1669722232406" duration="320000" />
+    </task>
+    <task id="LOCAL-00001" summary="##########제목##########&#10;[스택]재활훈련&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
+      <created>1669142484610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669142484610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="##########제목##########&#10;[스택]재활훈련&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
+    <option name="LAST_COMMIT_MESSAGE" value="##########제목##########&#10;[스택]재활훈련&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
+  </component>
+</project>
