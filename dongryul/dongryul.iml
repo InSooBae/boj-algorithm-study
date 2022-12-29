@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0208" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0210" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0215" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0223" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0302" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0308" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0316" isTestSource="false" packagePrefix="src.boj.bfs_dfs" />
+      <sourceFolder url="file://$MODULE_DIR$/0323" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0330" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0406" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0413" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0420" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0427" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0504" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0511" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,3 +1,5 @@
+package prgrms;
+
 import java.util.*;
 
 class Solution {
