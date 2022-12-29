@@ -20,7 +20,6 @@
       <sourceFolder url="file://$MODULE_DIR$/0511" isTestSource="false" packagePrefix="Algorithm.BOJ._0511" />
       <sourceFolder url="file://$MODULE_DIR$/0601" isTestSource="false" packagePrefix="Algorithm.BOJ._0601" />
       <sourceFolder url="file://$MODULE_DIR$/_1121" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_1122" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
