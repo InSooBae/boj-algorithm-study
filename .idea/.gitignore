@@ -7,5 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 
+# IntelliJ project files
+.idea
+.idea/*.xml
 *.iml
-*.xml
