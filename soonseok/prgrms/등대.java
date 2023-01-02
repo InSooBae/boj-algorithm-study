@@ -1,6 +1,8 @@
 import java.util.*;
 
 /*
+  https://school.programmers.co.kr/learn/courses/30/lessons/133500
+
     2 ≤ 등대 개수 ≤ 100,000
 
     뱃길은 항상 n-1 개
