@@ -1,12 +1,10 @@
-package _1227;
+package _2022._1227;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 public class Main_1941_소문난칠공주_G3 {
     static int[] dx = {1, 0, -1, 0};

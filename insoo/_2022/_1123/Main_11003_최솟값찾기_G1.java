@@ -1,4 +1,4 @@
-package _1123;
+package _2022._1123;
 
 import java.io.BufferedReader;
 import java.io.IOException;
