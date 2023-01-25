@@ -4,89 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b0f1a7f-9455-491f-8ee2-bb2ebcbe3765" name="Changes" comment="##########제목##########&#10;&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
-      <change afterPath="$PROJECT_DIR$/_2023/_0102/Main_11967_불켜기_G2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0208/Main_BOJ_14891_톱니바퀴_124ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0208/Main_BOJ_14891_톱니바퀴_124ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0208/Main_BOJ_14891_톱니바퀴_144ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0208/Main_BOJ_14891_톱니바퀴_144ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0208/Main_BOJ_1543_문서검색_128ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0208/Main_BOJ_1543_문서검색_128ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0208/Main_BOJ_1874_스택수열_298ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0208/Main_BOJ_1874_스택수열_298ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0210/Main_BOJ_1406_에디터_568ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0210/Main_BOJ_1406_에디터_568ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0210/Main_BOJ_17298_오큰수_1096ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0210/Main_BOJ_17298_오큰수_1096ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0210/Main_BOJ_1966_프린터큐_144ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0210/Main_BOJ_1966_프린터큐_144ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0215/Main_11725_트리의부모찾기_S2_배인수_568ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0215/Main_11725_트리의부모찾기_S2_배인수_568ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0215/Main_17135_캐슬디펜스_G4_배인수_264ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0215/Main_17135_캐슬디펜스_G4_배인수_264ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0215/Main_5430_AC_G5_배인수_852ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0215/Main_5430_AC_G5_배인수_852ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0215/Main_5639_이진검색트리_G5_배인수_436ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0215/Main_5639_이진검색트리_G5_배인수_436ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0215/Main_7569_토마토_G5_배인수_772ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0215/Main_7569_토마토_G5_배인수_772ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0223/Main_1052_물병_S1_배인수_284ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0223/Main_1052_물병_S1_배인수_284ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0223/Main_11399_ATM_S3_배인수_132ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0223/Main_11399_ATM_S3_배인수_132ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0223/Main_1629_곱셈_S1_배인수_120ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0223/Main_1629_곱셈_S1_배인수_120ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0223/Main_2343_기타레슨_S1_배인수_256ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0223/Main_2343_기타레슨_S1_배인수_256ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/Main_14719_빗물_G5_배인수_84ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0302/Main_14719_빗물_G5_배인수_84ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/Main_1922_네트워크연결_G4_배인수_400ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0302/Main_1922_네트워크연결_G4_배인수_400ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/Main_1941_소문난칠공주_G3_배인수_260ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0302/Main_1941_소문난칠공주_G3_배인수_260ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/Main_2665_미로만들기_G4_배인수_84ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0302/Main_2665_미로만들기_G4_배인수_84ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/Main_4195_친구네트워크_G2_배인수_516ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0302/Main_4195_친구네트워크_G2_배인수_516ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0308/Main_12100_2048_Easy_G2_배인수_180ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0308/Main_12100_2048_Easy_G2_배인수_180ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0308/Main_1600_말이되고픈원숭이_G4_배인수_600ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0308/Main_1600_말이되고픈원숭이_G4_배인수_600ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0308/Main_16987_계란으로계란치기_S1_배인수_152ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0308/Main_16987_계란으로계란치기_S1_배인수_152ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0308/Main_2504_괄호의값_S2_배인수_76ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0308/Main_2504_괄호의값_S2_배인수_76ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0308/Main_5427_불_G4_배인수_736ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0308/Main_5427_불_G4_배인수_736ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0316/Main_14502_연구소_G5_344ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0316/Main_14502_연구소_G5_344ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0316/Main_15683_감시_G4_220ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0316/Main_15683_감시_G4_220ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0316/Main_20055_컨베이어벨트위의로봇_G5_208ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0316/Main_20055_컨베이어벨트위의로봇_G5_208ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0316/Main_2146_다리만들기_G3_180ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0316/Main_2146_다리만들기_G3_180ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0316/Main_9466_텀프로젝트_G3_1076ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0316/Main_9466_텀프로젝트_G3_1076ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0323/Main_1238_파티_G3_168ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0323/Main_1238_파티_G3_168ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0323/Main_14499_주사위굴리기_G4_92ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0323/Main_14499_주사위굴리기_G4_92ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0323/Main_1717_집합의표현_G4_392ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0323/Main_1717_집합의표현_G4_392ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0323/Main_5567_결혼식_실버2_140ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0323/Main_5567_결혼식_실버2_140ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0323/Main_9372_상근이의여행_S3_212ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0323/Main_9372_상근이의여행_S3_212ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0330/Main_11559_PuyoPuyo_G4_76ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0330/Main_11559_PuyoPuyo_G4_76ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0330/Main_13335_트럭_S1_96ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0330/Main_13335_트럭_S1_96ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0330/Main_13913_숨바꼭질4_G4_1064ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0330/Main_13913_숨바꼭질4_G4_1064ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0330/Main_1520_내리막길_G4_372ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0330/Main_1520_내리막길_G4_372ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0330/Main_15684_사다리조작_G4_540ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0330/Main_15684_사다리조작_G4_540ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0406/Main_10844_쉬운계단수_S1_80ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0406/Main_10844_쉬운계단수_S1_80ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0406/Main_11726_2xn타일링_S3_80ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0406/Main_11726_2xn타일링_S3_80ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0406/Main_14500_테트로미노_G5_508ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0406/Main_14500_테트로미노_G5_508ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0406/Main_17070_파이프옮기기1_G5_236ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0406/Main_17070_파이프옮기기1_G5_236ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0406/Main_9251_LCS_G5_112ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0406/Main_9251_LCS_G5_112ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0413/Main_11053_가장긴증가하는부분수열_S2_100ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0413/Main_11053_가장긴증가하는부분수열_S2_100ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0413/Main_15685_드래곤커브_G4_84ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0413/Main_15685_드래곤커브_G4_84ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0413/Main_16637_괄호추가하기_G3_92ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0413/Main_16637_괄호추가하기_G3_92ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/Main_16437_양구출작전_G2_884ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0420/Main_16437_양구출작전_G2_884ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/Main_16985_Maaaaaaaaaze_G3_772ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0420/Main_16985_Maaaaaaaaaze_G3_772ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0420/Main_1799_비숍_G1_136ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0420/Main_1799_비숍_G1_136ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0427/Main_14503_로봇청소기_G5_100ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0427/Main_14503_로봇청소기_G5_100ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0427/Main_2457_공주님의정원_G3_492ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0427/Main_2457_공주님의정원_G3_492ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0427/Main_2660_회장뽑기_G5_80ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0427/Main_2660_회장뽑기_G5_80ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/Main_1103_게임_G2_100ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0504/Main_1103_게임_G2_100ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/Main_1744_수묶기_G4_80ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0504/Main_1744_수묶기_G4_80ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0504/Main_3190_뱀배열버젼_G5_88ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0504/Main_3190_뱀배열버젼_G5_88ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/Main_13460_구슬탈출2_G1_76ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0511/Main_13460_구슬탈출2_G1_76ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/Main_14501_퇴사_S3_76ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0511/Main_14501_퇴사_S3_76ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/Main_15486_퇴사2_S3_656ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0511/Main_15486_퇴사2_S3_656ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0511/Main_17143_낚시왕_G2_384ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0511/Main_17143_낚시왕_G2_384ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/Main_1644_소수의연속합_G3_236ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0601/Main_1644_소수의연속합_G3_236ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/Main_1806_부분합_G4_232ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0601/Main_1806_부분합_G4_232ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/Main_2230_수고르기_G5_308ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0601/Main_2230_수고르기_G5_308ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/Main_2805_나무자르기_S3_704ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/0601/Main_2805_나무자르기_S3_704ms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1121/Main_1158_요세푸스문제_S4_.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1121/Main_1158_요세푸스문제_S4_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1122/Main_2493_탑_G5_.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1122/Main_2493_탑_G5_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1122/Main_6198_옥상정원꾸미기_G5.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1122/Main_6198_옥상정원꾸미기_G5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1123/Main_11003_최솟값찾기_G1.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1123/Main_11003_최솟값찾기_G1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1123/Main_7576_토마토_G5.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1123/Main_7576_토마토_G5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1124/Main_4179_불_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1124/Main_4179_불_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1128/Main_1697_숨바꼭질_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1128/Main_1697_숨바꼭질_S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1129/Main_5427_불_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1129/Main_5427_불_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1213/Main_9663_NQueen_G4.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1213/Main_9663_NQueen_G4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1226/Main_1759_암호만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1226/Main_1759_암호만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1226/Main_6603_로또_S2.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1226/Main_6603_로또_S2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1227/Main_1941_소문난칠공주_G3.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1227/Main_1941_소문난칠공주_G3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1228/Main_14442_벽부수고이동하기2_G3.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1228/Main_14442_벽부수고이동하기2_G3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1229/Main_16933_벽부수고이동하기3_G1.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1229/Main_16933_벽부수고이동하기3_G1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1230/Main_16920_확장게임_G2.java" beforeDir="false" afterPath="$PROJECT_DIR$/_2022/_1230/Main_16920_확장게임_G2.java" afterDir="false" />
+    <list default="true" id="8b0f1a7f-9455-491f-8ee2-bb2ebcbe3765" name="Changes" comment="##########제목##########&#10;[bfs] 재활(숨바꼭질5)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
+      <change afterPath="$PROJECT_DIR$/_2023/_0104/Main_9328_열쇠_G1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2023/_0116/Solution_이진변환반복하기_L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2023/_0125/Solution_영어끝말잇기_L2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/production/insoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/insoo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main_11967_불켜기_G2">
+  <component name="RunManager" selected="Application.Solution_영어끝말잇기_L2">
     <configuration name="Main_11967_불켜기_G2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_2023._0102.Main_11967_불켜기_G2" />
       <module name="insoo" />
@@ -146,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_14442_벽부수고이동하기2_G3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2022._1228.Main_14442_벽부수고이동하기2_G3" />
+    <configuration name="Main_17071_숨바꼭질5_P5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023._0103.Main_17071_숨바꼭질5_P5" />
       <module name="insoo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_2022._1228.*" />
+          <option name="PATTERN" value="_2023._0103.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_16920_확장게임_G2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2022._1230.Main_16920_확장게임_G2" />
+    <configuration name="Main_9328_열쇠_G1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023._0104.Main_9328_열쇠_G1" />
       <module name="insoo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_2022._1230.*" />
+          <option name="PATTERN" value="_2023._0104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_16933_벽부수고이동하기3_G1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2022._1229.Main_16933_벽부수고이동하기3_G1" />
+    <configuration name="Solution_이진변환반복하기_L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023._0116.Solution_이진변환반복하기_L2" />
       <module name="insoo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_2022._1229.*" />
+          <option name="PATTERN" value="_2023._0116.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1941_소문난칠공주_G3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2022._1227.Main_1941_소문난칠공주_G3" />
+    <configuration name="Solution_영어끝말잇기_L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023._0125.Solution_영어끝말잇기_L2" />
       <module name="insoo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_2022._1227.*" />
+          <option name="PATTERN" value="_2023._0125.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_영어끝말잇기_L2" />
+        <item itemvalue="Application.Solution_이진변환반복하기_L2" />
+        <item itemvalue="Application.Main_9328_열쇠_G1" />
+        <item itemvalue="Application.Main_17071_숨바꼭질5_P5" />
         <item itemvalue="Application.Main_11967_불켜기_G2" />
-        <item itemvalue="Application.Main_16920_확장게임_G2" />
-        <item itemvalue="Application.Main_16933_벽부수고이동하기3_G1" />
-        <item itemvalue="Application.Main_14442_벽부수고이동하기2_G3" />
-        <item itemvalue="Application.Main_1941_소문난칠공주_G3" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +155,12 @@
       <workItem from="1672361615141" duration="5422000" />
       <workItem from="1672478504879" duration="838000" />
       <workItem from="1672481816358" duration="11370000" />
-      <workItem from="1672616550889" duration="5491000" />
+      <workItem from="1672616550889" duration="8250000" />
+      <workItem from="1672704267733" duration="7617000" />
+      <workItem from="1672797631856" duration="9654000" />
+      <workItem from="1672923948964" duration="3640000" />
+      <workItem from="1673862210837" duration="6056000" />
+      <workItem from="1674636004229" duration="1381000" />
     </task>
     <task id="LOCAL-00001" summary="##########제목##########&#10;[스택]재활훈련&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
       <created>1669142484610</created>
@@ -299,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672517593130</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="##########제목##########&#10;[bfs] 재활(불켜기)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
+      <created>1672633868017</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672633868017</updated>
+    </task>
+    <task id="LOCAL-00011" summary="##########제목##########&#10;[bfs] 재활(숨바꼭질5)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]🔄update : 기능 수정&#10;#[]🛠️fix : 버그 수정&#10;#[]📘docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]🧹chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]🏗️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########">
+      <created>1672715771908</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672715771908</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +266,8 @@
     <MESSAGE value="##########제목##########&#10;[bfs] 재활훈련(벽부이2)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
     <MESSAGE value="##########제목##########&#10;[bfs] 재활(벽부이3)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
     <MESSAGE value="##########제목##########&#10;[bfs] 재활(확장게임)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
-    <option name="LAST_COMMIT_MESSAGE" value="##########제목##########&#10;[bfs] 재활(확장게임)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
+    <MESSAGE value="##########제목##########&#10;[bfs] 재활(불켜기)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
+    <MESSAGE value="##########제목##########&#10;[bfs] 재활(숨바꼭질5)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
+    <option name="LAST_COMMIT_MESSAGE" value="##########제목##########&#10;[bfs] 재활(숨바꼭질5)&#10;##########본문##########&#10;&#10;##########푸터##########&#10;&#10;##########&#10;# 1. Commit Message Structure&#10;# 기본적으로 커밋 메세지는 아래와 같이 제목/본문/꼬리말로 구성한다.&#10;##########&#10;# type: subject&#10;#&#10;# body&#10;# &#10;# footer&#10;##########&#10;# 2. Commit Type&#10;# ex) [Front | Back | Hadoop]⚡add: 새로운 기능 추가&#10;##########&#10;#[]⚡add : 새로운 기능 추가&#10;#[]update : 기능 수정&#10;#[]️fix : 버그 수정&#10;#[]docs : 문서 수정&#10;#[]✨style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우&#10;#[]♻️refactor : 코드 리펙토링&#10;#[]⛑️test : 테스트 코드, 리펙토링 테스트 코드 추가&#10;#[]chore : 빌드 업무 수정, 패키지 매니저 수정&#10;#[]️build : 프로젝트 빌드, 의존성 추가, 빌드 툴 변경사항이 있는 경우&#10;##########&#10;# 3. footer&#10;# Issue Tracker를 사용하기 위해 해당 Issue 번호를 등록한다.&#10;##########&#10;# #1&#10;##########" />
   </component>
 </project>
