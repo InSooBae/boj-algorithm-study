@@ -1,0 +1,104 @@
+import java.util.*;
+
+class Solution {
+    
+    static int R;
+    static int C;
+    
+    static char[][] map;
+    static boolean[][][] visit; // 3번째 배열 0->레버안당김, 1->레버당김
+    
+    static int[] dr = {-1, 0, 0, 1};
+    static int[] dc = {0, -1, 1, 0};
+    
+    static int move = 0;
+    
+    public int solution(String[] maps) {
+        
+        R = maps.length;
+        C = maps[0].length();
+        
+        map = new char[R][C];
+        visit = new boolean[R][C][2];
+        
+        int[] start = new int[3];
+        
+        for(int r = 0; r < R; r++) {
+            for(int c = 0; c < C; c++) {
+                map[r][c] = maps[r].charAt(c);
+                
+                if(map[r][c] == 'S') {
+                    start[0] = r;
+                    start[1] = c;
+                    map[r][c] = 'O';
+                }
+            }
+        }
+        
+        
+        if(bfs(start)) return move;
+        else return -1;
+        
+    } // solution()
+    
+    public boolean bfs(int[] start) {
+        Queue<int[]> queue = new LinkedList<>();
+        
+        visit[start[0]][start[1]][0] = true;
+        queue.add(start);
+        
+        while(!queue.isEmpty()) {
+            
+            int size = queue.size();
+            
+            while(--size >= 0) {
+                
+                int[] cur = queue.poll();
+                
+                for(int i = 0; i < 4; i++) {
+                    int newR = cur[0] + dr[i];
+                    int newC = cur[1] + dc[i];
+                    
+                    if(newR < 0 || newC < 0 || newR >= R || newC >= C) continue;
+                    
+                    if(map[newR][newC] == 'X') continue; // 벽인 경우
+                    
+                    if(visit[newR][newC][cur[2]]) continue; // 현재 상태로 이미 방문한 경우
+                    
+                    // 방문이 가능
+                    if(map[newR][newC] == 'E' && cur[2] == 1) { // 종료 성공
+                        move++;
+                        return true;
+                    }
+                    
+                    
+                    else if(map[newR][newC] == 'O' || map[newR][newC] == 'E') { // 일반 방문
+                        visit[newR][newC][cur[2]] = true;
+                        queue.add(new int[]{newR, newC, cur[2]});
+                    }
+                    
+                    else if(map[newR][newC] == 'L') { // 레버 발견
+                        visit[newR][newC][0] = true;
+                        visit[newR][newC][1] = true;
+                        queue.add(new int[]{newR, newC, 1});
+                    }
+                    
+                    
+                }
+                
+            } // inner while
+            
+            move++;
+            
+        } // outer while
+        
+        
+        
+        // 출구 못찾았으면 fail
+        return false;
+        
+    } // bfs()
+    
+    
+    
+} // class Solution
